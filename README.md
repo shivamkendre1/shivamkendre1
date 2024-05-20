@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @shivamkendre
-- 👀 I’m interested in web developement 
-- 🌱 I’m currently learning javascript reactjs and backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 I’m interested in mern stack development 
+- 🌱 I’m currently learning javascript and the baackend devlopment
 - - 😄 Pronouns: he/him
-- ⚡ Fun fact: .
 
 <!---
 shivamkendre1/shivamkendre1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
